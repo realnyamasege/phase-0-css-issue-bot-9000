@@ -13,11 +13,11 @@ h2 {
   font-style: italic;
 }
 
-#task .completed {
-  font-family: 'Courier New', Courier, monospace;
+.completed {
+  font-size: 12px;
 }
 
-#task .completed {
+#tasks .completed {
   background: #ccc;
   text-decoration: underline;
 }
